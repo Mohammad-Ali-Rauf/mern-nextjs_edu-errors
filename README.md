@@ -2,7 +2,9 @@
 
 ## Overview
 
-The **MERN/Next.js Learning and Error Resolution Platform** is an innovative open-source tool that I developed to help developers by combining educational resources and real-time troubleshooting in a single, integrated solution. Whether you're just starting with the MERN stack (MongoDB, Express.js, React.js, Node.js) and Next.js, or you're an experienced developer, this platform is designed to help you learn and solve problems more efficiently.
+The **MERN/Next.js Learning and Error Resolution Platform** is an innovative open-source tool I’m developing to assist developers by integrating educational resources with real-time troubleshooting into a single, powerful solution. Whether you’re just starting with the MERN stack (MongoDB, Express.js, React.js, Node.js) and Next.js, or you’re an experienced developer, this platform is designed to enhance your learning and problem-solving experience.
+
+**Note:** The platform is currently under development and will be launched once the Minimum Viable Product (MVP) is working. However, if you want to start using it now, you can clone the repository and run the platform locally.
 
 ## Key Features
 
@@ -26,14 +28,14 @@ The **MERN/Next.js Learning and Error Resolution Platform** is an innovative ope
 
 - **Efficient Learning**: Quickly grasp complex concepts with structured, easy-to-understand explanations.
 - **Accelerated Problem-Solving**: Save time with direct, effective solutions to errors, enhancing productivity and reducing frustration.
-- **Open Source and Free**: The platform is available for free to the developer community, promoting collaboration and making advanced learning and troubleshooting tools accessible to everyone.
+- **Open Source and Free**: The platform will be available for free to the developer community, promoting collaboration and making advanced learning and troubleshooting tools accessible to everyone.
 
 ## Usage
 
-### Prerequisites
+### Prerequisites for Local Installation
 - Node.js and npm installed on your machine.
 
-### Installation
+### Local Installation Guide
 
 1. Clone the repository:
 
@@ -83,4 +85,4 @@ This project is licensed under the MIT License.
 
 ## Support
 
-For any issues or feature requests, please open an issue on GitHub. I appreciate your feedback and am here to help!
+For any issues or feature requests, please open an issue on GitHub. Your feedback is valuable, and I’m here to help!
