@@ -33,7 +33,8 @@ The **MERN/Next.js Learning and Error Resolution Platform** is an innovative ope
 ## Usage
 
 ### Prerequisites for Local Installation
-- Node.js and npm installed on your machine.
+- Node.js, npm installed on your machine.
+- yarn - optional
 
 ### Local Installation Guide
 
@@ -49,14 +50,26 @@ The **MERN/Next.js Learning and Error Resolution Platform** is an innovative ope
     ```bash
     yarn
     ```
+    
+    or
+   
+    ```bash
+    npm install
+    ```
 
-3. Run the platform locally:
+4. Run the platform locally:
 
     ```bash
     yarn dev
     ```
+    
+    or
+   
+   ```bash
+    npm run dev
+    ```
 
-4. Access the platform:
+5. Access the platform:
 
     Open your browser and navigate to `http://localhost:3000` to start using the platform.
 
@@ -75,7 +88,7 @@ I welcome contributions from the community! To contribute:
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and commit them with descriptive messages.
-4. Push your branch and open a Pull Request against the `main` branch.
+4. Push your branch and open a Pull Request against the `master` branch.
 
 Please ensure your code adheres to the coding standards and includes tests where applicable.
 
