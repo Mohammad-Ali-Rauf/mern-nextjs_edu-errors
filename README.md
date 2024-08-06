@@ -6,6 +6,16 @@ The **MERN/Next.js Learning and Error Resolution Platform** is an innovative ope
 
 **Note:** The platform is currently under development and will be launched once the Minimum Viable Product (MVP) is working. However, if you want to start using it now, you can clone the repository and run the platform locally.
 
+## Core Technologies
+
+This platform is built using the following key technologies:
+
+- **Node.js**: A JavaScript runtime for building scalable network applications.
+- **Express.js**: A minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+- **Next.js**: A React framework that enables functionality such as server-side rendering and generating static websites.
+- **MongoDB**: A NoSQL database known for its flexibility and scalability, used for storing data in a JSON-like format.
+- **LLaMA 70B Model**: An advanced AI model that powers the chatbot, providing accurate and context-aware responses.
+
 ## Key Features
 
 ### 1. Educational Chatbot
