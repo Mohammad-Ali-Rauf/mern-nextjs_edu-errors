@@ -38,20 +38,20 @@ The **MERN/Next.js Learning and Error Resolution Platform** is an innovative ope
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/intelligent-mern-nextjs-platform.git
-    cd intelligent-mern-nextjs-platform
+    git clone https://github.com/Mohammad-Ali-Rauf/mern-nextjs_edu-errors.git
+    cd mern-nextjs_edu-errors
     ```
 
 2. Install dependencies:
 
     ```bash
-    npm install
+    yarn
     ```
 
 3. Run the platform locally:
 
     ```bash
-    npm start
+    yarn dev
     ```
 
 4. Access the platform:
